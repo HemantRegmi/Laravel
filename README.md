@@ -71,9 +71,11 @@ If you pulled this code from a repository or moved it to a new machine:
 
 ## 3. Accessing the Application
 - **Web App**: [http://localhost:8080](http://localhost:8080)
+  
     ![Laravel Welcome Page](images/laravel-welcome.png)
   
 - **Database (phpMyAdmin)**: [http://localhost:8081](http://localhost:8081)
+  
     ![phpMyAdmin Interface](images/phpmyadmin.png)
     - **User**: `laravel`
     - **Pass**: `secret`
